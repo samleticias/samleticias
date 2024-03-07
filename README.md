@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-<br>🌱 I’m currently learning Java and Spring<br>💬 Tech enthusiast, coding my way.
+<br>🌱 I’m currently learning Java and Spring<br>💬 Tech enthusiast
 
 
 # 💻 Tech Stack:
