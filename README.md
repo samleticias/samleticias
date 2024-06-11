@@ -4,6 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-🔍 Atualmente estudando Java e Spring <br> ✉️ sammyavaladao@gmail.com <br>
+🌱 I’m currently learning Java and Spring <br> ✉️ Email: sammyavaladao@gmail.com <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammya-valad%C3%A3o-18aa912a9/) 
+## Socials:
+
+<div>
+<a href="https://www.linkedin.com/in/sammya-valad%C3%A3o-18aa912a9/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
