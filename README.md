@@ -2,6 +2,7 @@
 
 - 🔭 System Development Student at Federal Institute of Piaui (IFPI)
 - 🌱 I’m currently learning **Spring**
+- ⚡ Fun fact: I like reading Fernando Pessoa's poems in my spare time 📖
 - 📫 How to reach me: sammyavaladao@gmail.com
 
 <div align="center">
