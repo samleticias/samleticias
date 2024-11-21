@@ -2,7 +2,6 @@
 
 - 🔭 System Development Student at Federal Institute of Piaui (IFPI)
 - 🌱 I’m currently learning **Spring**
-- ⚡ Fun fact: I like reading Fernando Pessoa's poems in my spare time 📖
 - 📫 How to reach me: sammyavaladao@gmail.com
 
 <div align="center">
@@ -20,6 +19,9 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">  
+  <img align="center" alt="Git" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">  
+
 </div>
 
 ##
