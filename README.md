@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sammya Leticia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3>System Development Student at <a href="https://www.ifpi.edu.br/">Federal Institute of Piaui </a> (3/5) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-<h3>I’m currently learning Django and React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h4>System Development Student at <a href="https://www.ifpi.edu.br/">Federal Institute of Piaui </a> (3/5) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<h4>I’m currently learning Django and React <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ...  
 
