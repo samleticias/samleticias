@@ -1,4 +1,4 @@
-## Hi, I'm Sammya Leticia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=false&multiline=false&lines=Hi%2C+I'm+Sammya+Leticia!" />
 
 - System Development Student at [Federal Institute of Piauí](https://www.ifpi.edu.br/) (3/5) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> <br>
 - I’m currently learning **Django** and **React** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
@@ -34,10 +34,6 @@ const sammya = {
 </p>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUyaDhzYWVqa2ZtMzkzbGg1ZmdzaWJudWI4YXlvY2d0Y3ZyNXFmNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YT8NIA8fU2pz6Gf2kR/giphy.gif" width="40" align="center"> Stats
-
-<div align="center">
-  <a href="https://github.com/DevBatista1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samleticias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samleticias&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samleticias&layout=compact&theme=dracula" height="170" alt="Most Used Languages"/>
+</p>
