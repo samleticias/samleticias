@@ -1,6 +1,6 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=false&multiline=false&lines=Hi%2C+I'm+Sammya+Leticia!" />
 
-- System Development Student at [Federal Institute of Piauí](https://www.ifpi.edu.br/) (3/5) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> <br>
+- System Development Student at [Federal Institute of Piauí](https://www.ifpi.edu.br/) (4/5) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> <br>
 - I’m currently learning **Django** and **React** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ...  
