@@ -8,8 +8,8 @@
 ```javascript
 const sammya = {
   pronouns: "she" | "her",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java"],
-  tools: ["Spring", "Node", "Django", "Git", "Primefaces", "JSF", "Docker"],
+  code: ["Javascript", "Typescript", "PHP", "Python", "Java"],
+  tools: ["Spring", "NextJS", "Django", "Laravel", "Git", "Docker"],
   interests: [
     "tech communities and mentoring",
     "software architecture patterns",
