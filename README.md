@@ -1,6 +1,6 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=false&multiline=false&lines=Hi%2C+I'm+Sammya+Leticia!" />
 
-- System Development Student at [Federal Institute of Piauí](https://www.ifpi.edu.br/) (4/5) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFwem9vc3M2ZWZ0cGtzaHF2NGh4NjB0c3d2OW9nc2QxNmRoM251bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" width="30" align="center">
+- System Development Student at [Federal Institute of Piauí](https://www.ifpi.edu.br/) (5/5) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFwem9vc3M2ZWZ0cGtzaHF2NGh4NjB0c3d2OW9nc2QxNmRoM251bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h4x6RMBru1Mx7zLWko/giphy.gif" width="30" align="center">
 - I’m currently learning **Django** and **React** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ...  
