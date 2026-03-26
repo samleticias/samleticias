@@ -25,7 +25,7 @@ const sammya = {
   <a href="https://www.linkedin.com/in/sammyavaladao/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/samleticias/">
+  <a href="https://www.instagram.com/sammyaleticiavs/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
     <a href="https://github.com/samleticias">
